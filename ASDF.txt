@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 asdfsadf
 ii
+=======
+>>>>>>> refs/remotes/origin/master
